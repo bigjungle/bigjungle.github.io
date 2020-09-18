@@ -2,39 +2,20 @@
 - Dreaming,Thinking,Wandering     
 - Computer technician for over 20 years    
 
-## Hello my friends,Welcome to GitHub Pages site.
-You can use the [editor on GitHub](https://github.com/bigjungle/bigjungle.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hello my friends,Welcome to My GitHub Pages site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mind listing
+================
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bigjungle/bigjungle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - 1.Java 8, 11 
+ - 2.Python, Django    
+ - 3.Spring MVC, Spring Boot , Spring Cloud        
+ - 4.Hibernete, Mybatis, PostgreSQL, Oracle, MySQL, MongoDB    
+ - 5.Elasticsearch, Logstash, Kibana        
+ - 6.Linux, RHEL, Ubantu, CentOS, Vim, Shell
+ - 7.BPMN2.0, ECM, ODM, Axure
+ - 8.Vue, Angular, React, Bootstrap, Typescript
+ - 9.PHP, wooCommerce, Wordpress, Octuber 
+ - 10.VS.Net, SharePoint, Azure, Office365, TFS, VSS, 
+ - 11.Vmware vShphere, Esxi, Citrix desktop, Kubernetes, Docker 
+ - 12.Ionic

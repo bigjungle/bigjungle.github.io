@@ -10,7 +10,7 @@ Mind listing
  - 1.Java 8, 11 
  - 2.Python, Django    
  - 3.Spring MVC, Spring Boot , Spring Cloud        
- - 4.Hibernete, Mybatis, PostgreSQL, Oracle, MySQL, MongoDB    
+ - 4.Hibernate, Mybatis, PostgreSQL, Oracle, MySQL, MongoDB    
  - 5.Elasticsearch, Logstash, Kibana        
  - 6.Linux, RHEL, Ubantu, CentOS, Vim, Shell
  - 7.BPMN2.0, ECM, ODM, Axure

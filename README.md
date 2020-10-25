@@ -4,10 +4,10 @@
 
 ## Hello my friends,Welcome to My GitHub Pages site.
 
-Mind listing
+Mind footprint
 ================
 
- - 1.Java 8, 11 
+ - 1.Java 
  - 2.Python, Django    
  - 3.Spring MVC, Spring Boot , Spring Cloud        
  - 4.Hibernate, Mybatis, PostgreSQL, Oracle, MySQL, MongoDB    

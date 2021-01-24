@@ -7,8 +7,8 @@
 Mind footprint
 ================
 
- - 1.Java 
- - 2.Python, Django    
+ - 1.Java(1.3, 1.5, 1.8, 15) 
+ - 2.Python(2, 3), Wagtail, Mezzanine, PyCharm, Django     
  - 3.Spring MVC, Spring Boot , Spring Cloud        
  - 4.Hibernate, Mybatis, PostgreSQL, Oracle, MySQL, MongoDB    
  - 5.Elasticsearch, Logstash, Kibana        
@@ -19,5 +19,4 @@ Mind footprint
  - 10.VS.Net, SharePoint, Azure, Office365, TFS, VSS, 
  - 11.Vmware vShphere, Esxi, Citrix desktop, Kubernetes, Docker, Virutal box, vagrant 
  - 12.Ionic, Flutter
- - 13.Wagtail, Mezzanine, PyCharm, Django 
- - 14.XAMPP, PHPStorm  
+ - 13.XAMPP, PHPStorm  

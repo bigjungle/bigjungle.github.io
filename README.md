@@ -17,5 +17,7 @@ Mind footprint
  - 8.Vue, Angular, React, Bootstrap, Typescript
  - 9.PHP, wooCommerce, Wordpress, Octuber 
  - 10.VS.Net, SharePoint, Azure, Office365, TFS, VSS, 
- - 11.Vmware vShphere, Esxi, Citrix desktop, Kubernetes, Docker 
+ - 11.Vmware vShphere, Esxi, Citrix desktop, Kubernetes, Docker, Virutal box, vagrant 
  - 12.Ionic, Flutter
+ - 13.Wagtail, Mezzanine, PyCharm, Django 
+ - 14.XAMPP, PHPStorm  

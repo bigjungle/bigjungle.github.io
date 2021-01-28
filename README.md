@@ -15,7 +15,7 @@ Mind footprint
  - 6.Linux, RHEL, Ubantu, CentOS, Vim, Shell
  - 7.BPMN2.0, ECM, ODM, Axure
  - 8.Vue, Angular, React, Bootstrap, Typescript
- - 9.PHP, wooCommerce, Wordpress, Octuber 
+ - 9.PHP, wooCommerce, Wordpress, Octuber, zend 
  - 10.VS.Net, SharePoint, Azure, Office365, TFS, VSS, 
  - 11.Vmware vShphere, Esxi, Citrix desktop, Kubernetes, Docker, Virutal box, vagrant 
  - 12.Ionic, Flutter
